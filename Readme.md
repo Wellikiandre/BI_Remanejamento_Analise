@@ -1,7 +1,7 @@
 # Projeto Profissional de BI
 <h1 align="center">
 https://remanejamento-ftth.vercel.app/
-<h6> ☑ Senha para acessar o link acima => "mudftth"</h6>
+<h6> ☑ Senha para acessar o link acima => "ftth_remanejamento"</h6>
 </h1>
 
 ### Tecnologias utilizadas.
