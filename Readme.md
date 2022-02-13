@@ -8,6 +8,6 @@ https://remanejamento-ftth.vercel.app/
 - [x] SQL, M, Dax
 - [x] SQL SERVER , POWER QUERY , TALEND e POWERBI
 
-<p align="center">Analise profunda mensal por granularidade UF e Cidade do indicador taxa de mudança de enreço por planta ativa de clientes</p>
+<p align="center">Analise profunda mensal por granularidade UF e Cidade e criação do indicador taxa de remanejamento</p>
 
 <hr />
